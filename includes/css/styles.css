@@ -37,11 +37,17 @@ footer{
       text-rendering: optimizeLegibility;
       background-color: black;
    }
-   .well .page-header{
-      margin-top:0px;
+   .jumbotron{
+      margin-top: 10px;
    }
-   .well .page-header h1{
-      margin-top: 0px;
+   .jumbotron .page-header{
+      margin-top:-35px;
+   }
+   .jumbotron .page-header h1{
+      margin-top: -20px;
+   }
+   .jumbotron p{
+      margin-top: -20px;
    }
    ul.unstyled{
       list-style: none;
