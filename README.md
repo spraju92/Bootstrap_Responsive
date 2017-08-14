@@ -1,2 +1,1 @@
-# Bootstrap_Responsive
-Spicy food zone
+Spicy food zone web site with responsive.
